@@ -1,5 +1,5 @@
 -- Don't change lines 1 to 5
-.open surgery.db
+.open Surgery.db
 .headers on
 .mode column
 -- Don't change lines 1 to 5
